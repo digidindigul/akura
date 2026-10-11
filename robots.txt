@@ -1,5 +1,3 @@
-# Akrura De Addiction & Rehabilitation Centre
-# https://akruradeaddiction.com/
 User-agent: *
 Allow: /
 
